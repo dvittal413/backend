@@ -1,0 +1,29 @@
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-22T18:37:16.153Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-22T18:37:16.710Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-22T18:37:16.722Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"dpg-d2kak3be5dus7391csg0-a.oregon-postgres.render.com","level":"error","message":"Database initialization error: getaddrinfo ENOTFOUND dpg-d2kak3be5dus7391csg0-a.oregon-postgres.render.com","stack":"Error: getaddrinfo ENOTFOUND dpg-d2kak3be5dus7391csg0-a.oregon-postgres.render.com\n    at C:\\Users\\ekmgb\\Desktop\\ZORVIXE\\Projects\\DvshortyLinks\\backend\\backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async initDB (C:\\Users\\ekmgb\\Desktop\\ZORVIXE\\Projects\\DvshortyLinks\\backend\\backend\\server.js:128:5)\n    at async startServer (C:\\Users\\ekmgb\\Desktop\\ZORVIXE\\Projects\\DvshortyLinks\\backend\\backend\\server.js:3232:5)","syscall":"getaddrinfo","timestamp":"2025-08-23T08:59:05.220Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T09:15:39.484Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T09:15:40.050Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T09:15:40.056Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T09:21:10.430Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T09:21:11.012Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T09:21:11.034Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T09:50:03.310Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T09:50:03.844Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T09:50:03.854Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T09:53:56.967Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T09:53:57.496Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T09:53:57.507Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T09:59:05.861Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T09:59:06.399Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T09:59:06.408Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T11:33:27.685Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T11:33:28.962Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T11:33:28.983Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T18:50:09.923Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T18:50:10.465Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T18:50:10.472Z"}
+{"level":"error","message":"Ad redirect error: value too long for type character varying(2)","timestamp":"2025-08-23T18:59:58.382Z"}
+{"level":"info","message":"Database connection successful","timestamp":"2025-08-23T20:56:28.047Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-23T20:56:28.750Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-08-23T20:56:28.759Z"}
